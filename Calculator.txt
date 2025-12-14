@@ -1,12 +1,12 @@
 
 Privacy Policy
 
-This Privacy Policy governs the manner in which the **Simple Calculator App** ("Application") is provided by **[Your/Company Name]** ("we," "us," or "our").
+This Privacy Policy governs the manner in which the *Calculator*  App ("Application") is provided by *Wasiqul Islam* ("we," "us," or "our").
 
 Last Updated: [Current Date, e.g., December 14, 2025]
 1. Data Collection and Usage
 
-The **Simple Calculator App** is designed to perform basic and/or scientific calculations locally on your device. **We do not collect any personal data, usage statistics, or analytics data from you or your device.**
+The *Calculator*  App is designed to perform basic and/or scientific calculations locally on your device. **We do not collect any personal data, usage statistics, or analytics data from you or your device.**
 
     No Personal Information: We do not ask for, collect, store, or transmit any personally identifiable information (PII) such as your name, email address, location, or device identifiers.
     No Tracking: The Application does not use cookies, tracking technologies, or third-party analytics services.
@@ -17,7 +17,7 @@ The **Simple Calculator App** is designed to perform basic and/or scientific cal
 The **Simple Calculator App** does not use or integrate with any third-party services, APIs, or advertising networks that would collect data from you.
 3. Children's Privacy
 
-Since the **Simple Calculator App** does not collect any personal data, we do not knowingly collect personal data from children under the age of 13. If a parent or guardian becomes aware that their child has provided us with information, they should contact us immediately. As stated, no information is collected in the first place.
+Since the *Calculator*  App does not collect any personal data, we do not knowingly collect personal data from children under the age of 13. If a parent or guardian becomes aware that their child has provided us with information, they should contact us immediately. As stated, no information is collected in the first place.
 4. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
